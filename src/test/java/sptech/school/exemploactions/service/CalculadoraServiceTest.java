@@ -43,5 +43,5 @@ import static org.junit.jupiter.api.Assertions.*;
             // Assert
             assertEquals(expectedMessage, exception.getMessage());
 
-        } 
+        }
     }
